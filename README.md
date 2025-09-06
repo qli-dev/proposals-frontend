@@ -1,5 +1,7 @@
 # proposals-frontend
 
+This is the official Qubic Proposals frontend application.
+
 ## Getting Started
 
 This section provides a step-by-step guide on how to set up your environment, install dependencies,
